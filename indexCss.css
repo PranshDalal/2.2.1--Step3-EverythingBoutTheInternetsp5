@@ -5,7 +5,7 @@ body{
 
 .what{
     background-color: #A9B5DF;
-    width: 300px;
+    width: 1200px;
     border: 15px solid #A9B5DF;
     padding: 30px;
     margin: 20px;
@@ -15,7 +15,7 @@ body{
 
 .why{
     background-color: #A9B5DF;
-    width: 600px;
+    width: 1200px;
     border: 15px solid #A9B5DF;
     padding: 30px;
     margin: 20px;
@@ -25,7 +25,7 @@ body{
 
 .when, .integral{
     background-color: #A9B5DF;
-    width: 500px;
+    width: 1200px;
     border: 15px solid #A9B5DF;
     padding: 30px;
     margin: 20px;
